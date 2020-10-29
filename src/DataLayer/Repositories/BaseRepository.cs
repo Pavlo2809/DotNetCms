@@ -7,7 +7,7 @@ using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace DotNetCms.DataLayer
+namespace DotNetCms.DataLayer.Repositories
 {
     /// <summary>
     /// <inheritdoc cref="TRepository"/>

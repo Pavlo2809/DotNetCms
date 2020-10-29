@@ -1,7 +1,7 @@
 using DotNetCms.Core.Abstractions.Repositories;
 using DotNetCms.Domain.DataModels;
 
-namespace DotNetCms.DataLayer
+namespace DotNetCms.DataLayer.Repositories
 {
     public class SocialNetworkRepository : BaseRepository<int, SocialNetwork, SocialNetworkRepository>, ISocialNetworkRepository
     {
